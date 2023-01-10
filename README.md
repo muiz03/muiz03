@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I only have the basic programming skills.<br>🌱 I’m currently Doing Bachelor's in Computer Science  <br>⚡ Fun fact "It all started with "Hello World"
+🔭 I only have the basic programming skills.<br>🌱 I’m currently Doing Bachelor's in Computer Science  <br>⚡ Fun fact "It all started with 'Hello World'"
 
 
 ## 🌐 Socials:
